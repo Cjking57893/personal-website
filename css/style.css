@@ -48,3 +48,13 @@
     display: flex;
     justify-content: space-evenly;
 }
+
+.contact {
+    text-align: center;
+}
+
+.contact__list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

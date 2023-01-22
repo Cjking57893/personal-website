@@ -23,3 +23,19 @@
 .bio__columns__achievements {
     width: 50%;
 }
+
+.skills {
+    text-align: center;
+}
+
+.skills__list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.skills__list li {
+    border: 2px solid red;
+    margin: 2rem;
+    width: 33%;
+}

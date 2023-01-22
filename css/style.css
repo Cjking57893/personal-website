@@ -6,3 +6,20 @@
 .about__title {
     text-align: center;
 }
+
+.bio {
+    text-align: center;
+}
+
+.bio__columns {
+    display: flex;
+    flex-direction: row;
+}
+
+.bio__columns__paragraphs {
+    width: 50%;
+}
+
+.bio__columns__achievements {
+    width: 50%;
+}

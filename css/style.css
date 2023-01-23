@@ -58,3 +58,31 @@
     flex-direction: column;
     align-items: center;
 }
+
+.footer {
+    background-color: gray;
+    margin-top: 2rem;
+    height: 8rem;
+}
+
+.social-media-icons {
+    display: flex;
+    justify-content: center;
+    gap: 0.9rem;
+    padding-top: 0.5rem;
+}
+
+.social-media-icon {
+    width: 40px;
+}
+
+.contact-information {
+    margin-top: 0.3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contact-information p {
+    margin-bottom: 0rem;
+}

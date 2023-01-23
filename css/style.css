@@ -39,3 +39,12 @@
     margin: 2rem;
     width: 33%;
 }
+
+.hobbies {
+    text-align: center;
+}
+
+.hobbies__list {
+    display: flex;
+    justify-content: space-evenly;
+}

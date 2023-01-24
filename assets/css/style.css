@@ -55,7 +55,9 @@
 
 .hobbies__list {
     display: flex;
+    gap: 1em;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
 .contact {

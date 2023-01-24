@@ -30,21 +30,13 @@
 
 .skills {
     text-align: center;
-    padding-top: 1.5em;
-    padding-bottom: 1.5em;
 }
 
 .skills__list {
-    list-style: none;
     display: flex;
-    justify-content: center;
-    margin-bottom: 0;
-}
-
-.skills__list li {
-    border: 2px solid red;
-    margin: 2rem;
-    width: 33%;
+    gap: 1em;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
 .hobbies {
@@ -98,4 +90,9 @@
 
 .contact-information p {
     margin-bottom: 0rem;
+}
+
+.img-flex {
+    display: flex;
+
 }

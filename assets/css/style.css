@@ -4,7 +4,7 @@
     padding-bottom: 1.5em;
 }
 
-.about__title {
+.about__h2 {
     text-align: center;
 }
 
@@ -15,16 +15,16 @@
     padding-bottom: 1.5em;
 }
 
-.bio__columns {
+.bio-columns {
     display: flex;
     flex-direction: row;
 }
 
-.bio__columns__paragraphs {
+.bio-columns__paragraph {
     width: 50%;
 }
 
-.bio__columns__achievements {
+.bio-columns__ul {
     width: 50%;
 }
 

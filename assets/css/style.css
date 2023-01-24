@@ -1,6 +1,7 @@
 .about {
-    margin-top: 1rem;
     text-align: center;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
 }
 
 .about__title {
@@ -10,6 +11,8 @@
 .bio {
     text-align: center;
     color: black;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
 }
 
 .bio__columns {
@@ -27,6 +30,8 @@
 
 .skills {
     text-align: center;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
 }
 
 .skills__list {
@@ -44,6 +49,8 @@
 
 .hobbies {
     text-align: center;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
 }
 
 .hobbies__list {
@@ -53,7 +60,8 @@
 
 .contact {
     text-align: center;
-    padding-bottom: 2rem;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
 }
 
 .contact__list {

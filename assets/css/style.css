@@ -76,7 +76,7 @@
     padding-top: 0.5rem;
 }
 
-.social-media-icon {
+.footer--social-media-icon {
     width: 40px;
 }
 
@@ -92,7 +92,6 @@
     margin-bottom: 0rem;
 }
 
-.img-flex {
+.card__img-HTML-CSS {
     display: flex;
-
 }

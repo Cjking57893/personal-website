@@ -26,6 +26,12 @@
 
 .bio-columns__ul {
     width: 50%;
+    line-height: 2em;
+}
+
+.bio-columns__ul li {
+    text-align: start;
+    padding-left: 0.5em;
 }
 
 .skills {

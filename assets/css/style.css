@@ -102,3 +102,21 @@
 .card__img-HTML-CSS {
     display: flex;
 }
+
+@media only screen and (max-width: 600px) {
+    section {
+        background-color: #225c60 !important;
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 900px) {
+    #about {
+        background-color: #225c60 !important;
+    }
+}
+
+@media only screen and (min-width: 900px) {
+    footer {
+        background-color: #304146 !important;
+    }
+}

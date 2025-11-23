@@ -54,6 +54,17 @@ h2 {
     color: white;
 }
 
+.portfolio {
+    text-align: center;
+}
+
+.portfolio-cards {
+    display: flex;
+    gap: 1.5em;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
 .hobbies {
     text-align: center;
     padding-top: 1.5em;
